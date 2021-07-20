@@ -1,0 +1,1 @@
+print("Aryan is a linux hater 😣😣!!")
