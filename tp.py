@@ -1,1 +1,1 @@
-print("Aryan is a linux hater 😣😣!!")
+print("Heth is a linux fan 😂")
