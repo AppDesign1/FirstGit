@@ -3,4 +3,4 @@ num2 = int(input("Enter Last Number\n>> "))
 
 ans = num1+num2
 print(ans)
-print("Veer, Heth and Samik just hate to use Linux 😣")
+print("Veer, Heth and Samik just hate to use Linux 😣😣")
